@@ -1,0 +1,19 @@
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
+
+*{
+	font-family: arial;
+}
+.title{
+	color: white;
+	background-color: #202F7C;
+	text-align: left;
+	font-weight: normal;
+	font-size: 200%;
+	padding-top: 25px;
+}
